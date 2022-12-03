@@ -1,5 +1,5 @@
 # change this code
-mystring = Hello
+mystring = "hello"
 myfloat = 10.0
 myint = 2.0
 
