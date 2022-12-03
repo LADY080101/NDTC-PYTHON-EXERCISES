@@ -1,7 +1,7 @@
 # change this code
-mystring = None
-myfloat = None
-myint = None
+mystring = Hello
+myfloat = 10.0
+myint = 2.0
 
 # testing code
 if mystring == "hello":
